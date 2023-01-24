@@ -14,7 +14,7 @@
     "dotenv": "^8.2.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
-    "p-queue": "^6.6.2",
+    "p-queue": "^7.3.0",
     "url-regex-safe": "^2.0.2",
     "utf-8-validate": "^5.0.4"
   },
